@@ -2,7 +2,7 @@
 
 I design products by day, write songs by night, and stay up late for the stars.
 
-Currently, I'm Head of Agentic Design at [Dayforce](https://www.dayforce.com). On the side, I ship personal projects with AI agents as my collaborators.
+I'm Head of Agentic Design at [Dayforce](https://www.dayforce.com). On the side, I ship personal projects with AI agents as my collaborators.
 
 **A few things I've built**
 
