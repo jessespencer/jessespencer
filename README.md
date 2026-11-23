@@ -6,6 +6,7 @@ Head of Agentic Design at [Dayforce](https://www.dayforce.com) in Denver. I ship
 
 **A few things I've built**
 
+- **Bible suite** – [Atlas](https://jessespencer.dev/bible/atlas) draws all 344,799 cross-references as arcs, [Lineage](https://jessespencer.dev/bible/lineage) puts 157 lives from Adam to the resurrection on one timeline, and [By Heart](https://jessespencer.dev/bible/byheart) helps you memorize Scripture, up to whole books
 - [Zero](https://zero.jessespencer.dev) – personal budgeting that lives on your computer, not in someone's cloud
 - [Park Pulse](https://jessespencer.dev/park-pulse) – 47 years of national park visits, so you know when to beat the crowds
 - [Constellation](https://jessespencer.dev/constellation) – a local map of your Claude and ChatGPT conversations
