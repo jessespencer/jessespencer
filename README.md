@@ -2,7 +2,7 @@
 
 I design products by day, write songs by night, and stay up late for the stars.
 
-Head of Agentic Design at [Dayforce](https://www.dayforce.com) in Denver. As **jessedestroys**, I ship side projects with AI agents as my collaborators.
+Head of Agentic Design at [Dayforce](https://www.dayforce.com) in Denver. I ship side projects with AI agents as my collaborators.
 
 **A few things I've built**
 
