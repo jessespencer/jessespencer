@@ -6,7 +6,7 @@ Head of Agentic Design at [Dayforce](https://www.dayforce.com) in Denver. I ship
 
 **A few things I've built**
 
-- [Bible suite](https://jessespencer.dev/bible/atlas) – [Atlas](https://jessespencer.dev/bible/atlas), [Lineage](https://jessespencer.dev/bible/lineage) and [By Heart](https://jessespencer.dev/bible/byheart), for exploring and memorizing Scripture
+- [Bible suite](https://github.com/jessespencer/bible) – [Atlas](https://jessespencer.dev/bible/atlas), [Lineage](https://jessespencer.dev/bible/lineage) and [By Heart](https://jessespencer.dev/bible/byheart), for exploring and memorizing Scripture
 - [Zero](https://zero.jessespencer.dev) – personal budgeting that lives on your computer, not in someone's cloud
 - [Park Pulse](https://jessespencer.dev/park-pulse) – 47 years of national park visits, so you know when to beat the crowds
 - [Constellation](https://jessespencer.dev/constellation) – a local map of your Claude and ChatGPT conversations
